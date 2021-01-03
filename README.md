@@ -4,7 +4,7 @@ To integrate in your project you need to change three classes on your own: tabs 
 
 The script adjusts itself to the number of tabs
 
-in CSS:
+in CSS add classes:
   .hide: {
     display: none
   }
